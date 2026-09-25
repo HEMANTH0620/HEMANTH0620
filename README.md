@@ -41,6 +41,6 @@ An aspiring **AI/ML Engineer** with a strong foundation in Computer Science, Mac
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [www.linkedin.com/in/j-hemanth-kumar](www.linkedin.com/in/j-hemanth-kumar)
+* **LinkedIn:** [linkedin.com/in/j-hemanth-kumar](https://www.linkedin.com/in/j-hemanth-kumar)
 * **GitHub:** [github.com/HEMANTH0620](https://github.com/HEMANTH0620)
-* **Email:** [hemanthjarugumalli2004@gmail.com](mailto:hemanthjarugumalli2004@gmail.com)
+* **Email:** [hemanthjarugumalli2004@gmail.com](mailto:hemanthjarugumalli2004@gmail.com)t featuring dynamic phrase-matching algorithms and a lightweight, 
