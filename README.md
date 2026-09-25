@@ -41,6 +41,6 @@ An aspiring **AI/ML Engineer** with a strong foundation in Computer Science, Mac
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+* **LinkedIn:** [www.linkedin.com/in/j-hemanth-kumar](www.linkedin.com/in/j-hemanth-kumar)
 * **GitHub:** [github.com/HEMANTH0620](https://github.com/HEMANTH0620)
 * **Email:** [hemanthjarugumalli2004@gmail.com](mailto:hemanthjarugumalli2004@gmail.com)
